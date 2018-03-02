@@ -19,4 +19,5 @@ class which is the observer.
 * Strategy is used to change the behaviour(Offensive or Defensive) of master ship at runtime.
 
 
+
 ![SkyWars](https://raw.githubusercontent.com/dfc747/SkyWars/master/skywars.png)
